@@ -1,3 +1,4 @@
+
 /**
   ******************************************************************************
   * @file    system_stm32f10x.c
@@ -416,6 +417,8 @@ void SystemCoreClockUpdate (void)
   * @param  None
   * @retval None
   */
+
+// 72MHz by default
 static void SetSysClock(void)
 {
 #ifdef SYSCLK_FREQ_HSE
@@ -1024,7 +1027,7 @@ static void SetSysClockTo72(void)
     /* PCLK2 = HCLK */
     RCC->CFGR |= (uint32_t)RCC_CFGR_PPRE2_DIV1;
     
-    /* PCLK1 = HCLK */
+    /* PCLK1 = HCLK / 2 */
     RCC->CFGR |= (uint32_t)RCC_CFGR_PPRE1_DIV2;
 
 #ifdef STM32F10X_CL

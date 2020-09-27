@@ -63,7 +63,7 @@ I (..\STM32F10x_FWLIB\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\STM32F10x_FWLIB\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\STM32F10x_FWLIB\inc\stm32f10x_wwdg.h)(0x4D783BB4)
 I (..\STM32F10x_FWLIB\inc\misc.h)(0x4D783BB4)
-F (.\system_stm32f10x.c)(0x4D99A59E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CORE -I..\USER -I..\STM32F10x_FWLIB\inc -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED-I C:\Users\Caesar\Desktop\AIIT\STM32\LED\USER\RTE-I D:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I D:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\system_stm32f10x.o --omf_browse ..\obj\system_stm32f10x.crf --depend ..\obj\system_stm32f10x.d)
+F (.\system_stm32f10x.c)(0x5F6C3717)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CORE -I..\USER -I..\STM32F10x_FWLIB\inc -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED-I C:\Users\Caesar\Desktop\AIIT\STM32\LED\USER\RTE-I D:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I D:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\system_stm32f10x.o --omf_browse ..\obj\system_stm32f10x.crf --depend ..\obj\system_stm32f10x.d)
 I (stm32f10x.h)(0x4D783CB4)
 I (..\CORE\core_cm3.h)(0x4D523B58)
 I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5475F300)
