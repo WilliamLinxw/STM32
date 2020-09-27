@@ -28,3 +28,6 @@
 ..\obj\main.o: ..\STM32F10x_FWLIB\inc\stm32f10x_usart.h
 ..\obj\main.o: ..\STM32F10x_FWLIB\inc\stm32f10x_wwdg.h
 ..\obj\main.o: ..\STM32F10x_FWLIB\inc\misc.h
+..\obj\main.o: ..\SYSTEM\my_uart\uart.h
+..\obj\main.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\main.o: ..\SYSTEM\sys\sys.h

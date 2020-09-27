@@ -29,6 +29,7 @@
 "..\obj\stm32f10x_wwdg.o"
 "..\obj\delay.o"
 "..\obj\sys.o"
+"..\obj\uart.o"
 --strict --scatter "..\OBJ\Template.sct"
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
