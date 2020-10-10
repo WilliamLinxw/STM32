@@ -65,11 +65,11 @@ void My_USART_Init(void){
 }
 
 void USART1_IRQHandler(void){
-	u16 data;
+	char data;
 	if(USART_GetITStatus(USART1, USART_IT_RXNE)){
 		data = USART_ReceiveData(USART1);
 		//data = data + 1;
-		printf("Received: %d", data);
+		printf("Received: %s\r\n", &data);
 		//USART_SendData(USART1, data);
 	}
 }
