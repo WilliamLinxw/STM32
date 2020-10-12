@@ -1,6 +1,7 @@
 --cpu Cortex-M3
 "ros_serial_test\startup_stm32f103xe.o"
 "ros_serial_test\time.o"
+"ros_serial_test\mainpp.o"
 "ros_serial_test\main.o"
 "ros_serial_test\gpio.o"
 "ros_serial_test\dma.o"
@@ -8,7 +9,6 @@
 "ros_serial_test\usart.o"
 "ros_serial_test\stm32f1xx_it.o"
 "ros_serial_test\stm32f1xx_hal_msp.o"
-"ros_serial_test\mainpp.o"
 "ros_serial_test\stm32f1xx_hal_gpio_ex.o"
 "ros_serial_test\stm32f1xx_hal_tim.o"
 "ros_serial_test\stm32f1xx_hal_tim_ex.o"

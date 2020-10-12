@@ -365,7 +365,7 @@
               <MiscControls>--cpp</MiscControls>
               <Define>USE_HAL_DRIVER,STM32F103xE</Define>
               <Undefine></Undefine>
-              <IncludePath>../Core/Inc;../Drivers/STM32F1xx_HAL_Driver/Inc;../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy;../Drivers/CMSIS/Device/ST/STM32F1xx/Include;../Drivers/CMSIS/Include;..\MDK-ARM;..\RosLibs</IncludePath>
+              <IncludePath>../Core/Inc; ../Drivers/STM32F1xx_HAL_Driver/Inc; ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy; ../Drivers/CMSIS/Device/ST/STM32F1xx/Include; ../Drivers/CMSIS/Include; ..\MDK-ARM; ..\RosLibs</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -437,6 +437,11 @@
           <GroupName>Application/User/Core</GroupName>
           <Files>
             <File>
+              <FileName>mainpp.cpp</FileName>
+              <FileType>8</FileType>
+              <FilePath>.\mainpp.cpp</FilePath>
+            </File>
+            <File>
               <FileName>main.c</FileName>
               <FileType>1</FileType>
               <FilePath>../Core/Src/main.c</FilePath>
@@ -470,11 +475,6 @@
               <FileName>stm32f1xx_hal_msp.c</FileName>
               <FileType>1</FileType>
               <FilePath>../Core/Src/stm32f1xx_hal_msp.c</FilePath>
-            </File>
-            <File>
-              <FileName>mainpp.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>.\mainpp.cpp</FilePath>
             </File>
           </Files>
         </Group>
