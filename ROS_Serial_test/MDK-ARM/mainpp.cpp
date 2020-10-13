@@ -33,7 +33,7 @@ void setup(void)
 
 void loop(void)
 {  
-	HAL_Delay(500);
+	HAL_Delay(10);
 	nh.spinOnce();
 }
 
