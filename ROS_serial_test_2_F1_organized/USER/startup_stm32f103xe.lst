@@ -545,12 +545,12 @@ ARM Macro Assembler    Page 9
               00000000 
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
-ork --depend=..\obj\startup_stm32f103xe.d -o..\obj\startup_stm32f103xe.o -I"C:\
-Users\Caesar\Desktop\AIIT\STM32_PROJECT\ROS_serial_test_1 - ¸±±¾\USER\RTE" -ID:
-\MDK5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include -ID:\MDK5\ARM\PACK\Keil\STM32F1xx_
-DFP\1.0.5\Device\Include --predefine="__MICROLIB SETA 1" --predefine="__UVISION
-_VERSION SETA 514" --predefine="_RTE_ SETA 1" --predefine="STM32F10X_HD SETA 1"
- --list=startup_stm32f103xe.lst ..\CORE\startup_stm32f103xe.s
+ork --depend=..\obj\startup_stm32f103xe.d -o..\obj\startup_stm32f103xe.o -IC:\U
+sers\Caesar\Desktop\AIIT\STM32\STM32_PROJECT\ROS_serial_test_2_F1_organized\USE
+R\RTE -ID:\MDK5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include -ID:\MDK5\ARM\PACK\Keil\
+STM32F1xx_DFP\1.0.5\Device\Include --predefine="__MICROLIB SETA 1" --predefine=
+"__UVISION_VERSION SETA 514" --predefine="_RTE_ SETA 1" --predefine="STM32F10X_
+HD SETA 1" --list=startup_stm32f103xe.lst ..\CORE\startup_stm32f103xe.s
 
 
 
