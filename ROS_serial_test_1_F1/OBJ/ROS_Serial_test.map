@@ -2358,7 +2358,7 @@ Image Symbol Table
     HardFault_Handler                        0x0800151b   Thumb Code     2  stm32f1xx_it.o(i.HardFault_Handler)
     MX_DMA_Init                              0x0800151d   Thumb Code    56  dma.o(i.MX_DMA_Init)
     MX_GPIO_Init                             0x08001559   Thumb Code    22  gpio.o(i.MX_GPIO_Init)
-    MX_TIM2_Init                             0x08001575   Thumb Code   100  tim.o(i.MX_TIM2_Init)
+    MX_TIM2_Init                             0x08001575   Thumb Code    98  tim.o(i.MX_TIM2_Init)
     MX_USART1_UART_Init                      0x080015dd   Thumb Code    48  usart.o(i.MX_USART1_UART_Init)
     MemManage_Handler                        0x08001615   Thumb Code     2  stm32f1xx_it.o(i.MemManage_Handler)
     NMI_Handler                              0x08001617   Thumb Code     2  stm32f1xx_it.o(i.NMI_Handler)
@@ -2665,28 +2665,28 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-        60          4          0          0          0        806   dma.o
-        28          6          0          0          0        787   gpio.o
-       112          0          0          0          0       1948   main.o
-      2570        178        492          9       1772     520575   mainpp.o
-        36          8        304          0       1536        812   startup_stm32f103xe.o
-       164         28          0         12          0       6541   stm32f1xx_hal.o
-       198         14          0          0          0      28647   stm32f1xx_hal_cortex.o
-      1166         52          0          0          0       4086   stm32f1xx_hal_dma.o
-       504         42          0          0          0       2056   stm32f1xx_hal_gpio.o
-        60          8          0          0          0        914   stm32f1xx_hal_msp.o
-      1272         98          0          0          0       5004   stm32f1xx_hal_rcc.o
-       650         42          0          0          0       6288   stm32f1xx_hal_tim.o
-       124         20          0          0          0       1312   stm32f1xx_hal_tim_ex.o
-      1318         38          0          0          0      11122   stm32f1xx_hal_uart.o
-        56         18          0          0          0       5312   stm32f1xx_it.o
-         2          0         24          4          0       1171   system_stm32f1xx.o
-       140         10          0          0         72       1662   tim.o
-        32          4          0          0          0       3983   time.o
-       288         30          0          0        200       1888   usart.o
+        60          4          0          0          0        826   dma.o
+        28          6          0          0          0        807   gpio.o
+       112          0          0          0          0       1980   main.o
+      2570        178        492          9       1772     521299   mainpp.o
+        36          8        304          0       1536        820   startup_stm32f103xe.o
+       164         28          0         12          0       6609   stm32f1xx_hal.o
+       198         14          0          0          0      28699   stm32f1xx_hal_cortex.o
+      1166         52          0          0          0       4138   stm32f1xx_hal_dma.o
+       504         42          0          0          0       2072   stm32f1xx_hal_gpio.o
+        60          8          0          0          0        930   stm32f1xx_hal_msp.o
+      1272         98          0          0          0       5068   stm32f1xx_hal_rcc.o
+       650         42          0          0          0       6372   stm32f1xx_hal_tim.o
+       124         20          0          0          0       1328   stm32f1xx_hal_tim_ex.o
+      1318         38          0          0          0      11290   stm32f1xx_hal_uart.o
+        56         18          0          0          0       5420   stm32f1xx_it.o
+         2          0         24          4          0       1195   system_stm32f1xx.o
+       140         12          0          0         72       1694   tim.o
+        32          4          0          0          0       4003   time.o
+       288         30          0          0        200       1932   usart.o
 
     ----------------------------------------------------------------------
-      8804        600        852         28       3580     604914   Object Totals
+      8804        602        852         28       3580     606482   Object Totals
          0          0         32          0          0          0   (incl. Generated)
         24          0          0          3          0          0   (incl. Padding)
 
@@ -2732,9 +2732,9 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-      9376        656        852         36       3580     600146   Grand Totals
-      9376        656        852         36       3580     600146   ELF Image Totals
-      9376        656        852         36          0          0   ROM Totals
+      9376        658        852         36       3580     601714   Grand Totals
+      9376        658        852         36       3580     601714   ELF Image Totals
+      9376        658        852         36          0          0   ROM Totals
 
 ==============================================================================
 

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Move &apos;duration.cpp, time.cpp&apos; to &apos;Src&apos;" description="Move 2 resources to &apos;Src&apos;" destination="Src" element1="Inc/duration.cpp" element2="Inc/time.cpp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="2" stamp="1604319852901" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;chatter_f4/Src/main.c&apos; to &apos;main.cpp&apos;" description="Rename resource &apos;main.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Src/main.c" name="main.cpp" stamp="1604320050111" updateReferences="true"/>
+</session>

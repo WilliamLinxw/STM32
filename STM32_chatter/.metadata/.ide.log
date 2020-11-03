@@ -1,0 +1,38 @@
+2020-11-02 20:19:55,364 [INFO] Activator:178 - 
+
+
+2020-11-02 20:19:55,367 [INFO] Activator:179 - !SESSION log4j initialized
+2020-11-02 20:20:00,825 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:00,828 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:01,742 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:01,743 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:02,570 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:02,570 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:03,814 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:03,814 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:04,172 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:04,172 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:04,518 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:04,519 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:04,945 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:04,945 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:05,436 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:05,437 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:05,776 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:05,776 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:06,120 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:06,121 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:06,476 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:06,477 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:06,830 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:06,830 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:07,177 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:07,177 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:07,520 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:07,521 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:08,367 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:08,368 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:09,617 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:09,617 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
+2020-11-02 20:20:11,474 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80: Software caused connection abort: recv failed
+2020-11-02 20:20:11,475 [INFO] RetryExec:113 - Retrying request to {}->http://127.0.0.1:4780->http://sw-center.st.com:80
